@@ -5,10 +5,15 @@ body
     background: #EEEEEE;
 }
 
+div.container
+{
+    margin: auto;
+}
+
 pre code
 {
     font-family: 'Noto Sans';
-    font-size: 100%;
+    font-size: 100%;	
 }
 
 @media print {
@@ -95,6 +100,7 @@ h1, h2, h3
     padding: 5px;
     padding-left: 0px;
     font-family: 'Noto Sans';
+    background-color: lightblue; 
 }
 
 h1 { font-size: 1.6rem; text-weight: bold; }
