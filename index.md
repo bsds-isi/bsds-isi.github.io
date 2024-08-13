@@ -32,8 +32,12 @@ statistics and probability. Learn more about the course
 
 * Semestral Exam:
 
+* [Class schedule](https://calendar.google.com/calendar/u/3?cid=MmE2ZjBiYTcwNzQxMjJlMzY2MjE0YTEwMzYzMmE0YmViZGZmNjM2M2EzZWEwYTk5YzM3NTI5ZDg0NDkxNjI4MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+
 
 ### Courses
+
 
 * Mathematics I
 
@@ -48,6 +52,4 @@ statistics and probability. Learn more about the course
 * Biology I
 
 * Economics I
-
-
 
