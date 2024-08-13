@@ -5,8 +5,6 @@ layout: default
 ---
 
 
-# Welcome
-
 The four-year Bachelor (Hons.) programme of Statistical Data Science
 focuses on statistical methodologies, with emphasis on statistical
 machine learning, computational statistics and data analytics. The
