@@ -1,0 +1,85 @@
+
+@media screen {
+
+    body { background-image: url("red.jpg"); }
+    main
+    {
+	background-color: #ffffff99;
+    }
+    header#topnav
+    {
+	background-size: 100%;
+	background-color: #bea682cc;
+    }
+    header#topnav a
+    {
+	color: #000000DD;
+    }
+    a
+    {
+	color: #880000BB;
+    }
+    a:hover
+    {
+	color: #880000;
+    }
+}
+
+#page-content {
+    padding: 20px;
+    margin: 0px;
+}
+
+nav ul { 
+    display: block;
+    list-style: none;
+    /* list-style-position: inside; */
+    /* margin-left: 10px; */
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul li {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav a:hover
+{
+    text-decoration: none;
+}
+
+nav li p
+{
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+    padding-left: 20px;
+}
+
+nav li li p 
+{
+    color: black;
+    width: 100%;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+
+nav li p:hover
+{
+    background: #DDDDDD;
+}
+
+img.fphoto
+{
+    display: block;
+    float: right;
+    max-height: 200px;
+    width: auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+}
+

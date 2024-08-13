@@ -1,0 +1,151 @@
+body
+{
+    padding: 0px;
+    font-family: 'Noto Sans';
+    background: #EEEEEE;
+}
+
+pre code
+{
+    font-family: 'Noto Sans';
+    font-size: 100%;
+}
+
+@media print {
+
+    nav
+    {
+	display: none;
+    }
+
+    body
+    {
+	font-family: 'Noto Serif';
+	font-size: 110%;
+    }
+    pre code
+    {
+	font-size: 100%;
+    }
+}
+
+/* make size-dependent*/
+
+nav {
+    width: 300px;
+}
+
+.header, main, .footer
+{
+    margin-left: 300px;
+    padding: 10px;
+}
+
+.header
+{
+    text-align: center;
+    background: #444444;
+    color: #DDDDDD;
+}
+
+main
+{
+    background: #DDDDDD;
+    min-height: 560px;
+}
+
+div.footer
+{
+    text-align: center;
+    background: #222222;
+    color: #DDDDDD;
+}
+
+
+img.img-fluid
+{
+    width: "100% \9"; /* IE bug workaround?*/
+    max-height: 500px;
+}
+
+
+img
+{
+    display: block;
+    !margin-left: auto;
+    !margin-right: auto;
+    width: 100%;
+}
+
+img.fphoto
+{
+    display: block;
+    float: right;
+    max-height: 200px;
+    width: auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+
+h1, h2, h3
+{
+    padding: 5px;
+    padding-left: 0px;
+    font-family: 'Noto Sans';
+}
+
+h1 { font-size: 1.6rem; text-weight: bold; }
+h2 { font-size: 1.3rem; }
+h3 { font-size: 1.2rem; }
+
+
+nav {
+    /* position: fixed; */
+    float: left;
+    padding-top: 10px;
+}
+
+nav ul { 
+    display: block;
+    list-style: none;
+    /* list-style-position: inside; */
+    /* margin-left: 10px; */
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul li {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav a:hover
+{
+    text-decoration: none;
+}
+
+nav li p
+{
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+    padding-left: 20px;
+}
+
+nav li li p 
+{
+    width: 100%;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+
+nav li p:hover
+{
+    background: #DDDDDD;
+}
+
