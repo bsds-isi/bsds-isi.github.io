@@ -17,12 +17,11 @@ statistics and probability. Learn more about the course
 
 * [Pass-fail rules](https://www.isical.ac.in/sites/default/files/pdf/BSDS-Pass-Fail-policy.pdf)
 
+* * *
 
-# 2024
+# 2024 - Semester I
 
-## Semester I
-
-### Calendar
+## Calendar
 
 * Classes: 12 August – 29 November, 2024
 
@@ -37,7 +36,7 @@ statistics and probability. Learn more about the course
 * [Class schedule](https://calendar.google.com/calendar/u/3?cid=MmE2ZjBiYTcwNzQxMjJlMzY2MjE0YTEwMzYzMmE0YmViZGZmNjM2M2EzZWEwYTk5YzM3NTI5ZDg0NDkxNjI4MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
-### Courses
+## Courses
 
 
 * [Mathematics I](https://sites.google.com/view/parthanilroy/home/teaching/mathematics-i)
