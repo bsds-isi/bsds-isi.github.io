@@ -38,14 +38,13 @@ statistics and probability. Learn more about the course
 
 ## Courses
 
-
 * [Mathematics I](https://sites.google.com/view/parthanilroy/home/teaching/mathematics-i)
 
-* Probability I
+* [Probability I](https://www.isid.ac.in/~antar/Teaching/Fall-2024/)
 
 * [Statistics I](https://deepayan.github.io/BSDS/2024-01-DE/)
 
-* Introduction to Computing
+* [Introduction to Computing](https://www.isical.ac.in/~malaybhattacharyya/Courses/In2Comp/Fall2024)
 
 * Earth System Sciences
 
