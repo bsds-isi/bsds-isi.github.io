@@ -33,7 +33,7 @@ statistics and probability. Learn more about the course
 
 * Backpaper Examination: _6 January – 10 January, 2025_
 
-* [Timetable](documents/timetable-week-2.pdf) [(Google Calendar)](https://calendar.google.com/calendar/u/3?cid=MmE2ZjBiYTcwNzQxMjJlMzY2MjE0YTEwMzYzMmE0YmViZGZmNjM2M2EzZWEwYTk5YzM3NTI5ZDg0NDkxNjI4MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [Timetable](documents/timetable-week-3+.pdf) [(Google Calendar)](https://calendar.google.com/calendar/u/3?cid=MmE2ZjBiYTcwNzQxMjJlMzY2MjE0YTEwMzYzMmE0YmViZGZmNjM2M2EzZWEwYTk5YzM3NTI5ZDg0NDkxNjI4MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 
 ## Courses
