@@ -50,3 +50,4 @@ statistics and probability. Learn more about the course
 
 * Economics I
 
+## [Midterm Timetable](documents/midterm.pdf)
