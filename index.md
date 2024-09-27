@@ -17,6 +17,8 @@ statistics and probability. Learn more about the course
 
 * [Pass-fail rules](https://www.isical.ac.in/sites/default/files/pdf/BSDS-Pass-Fail-policy.pdf)
 
+* [Tuition Fee Waiver](fee-waiver.html)
+
 * * *
 
 # 2024 - Semester I
