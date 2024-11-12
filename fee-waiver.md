@@ -5,8 +5,7 @@ layout: default
 ---
 
 Students of the BSDS program are eligible for income-based tuition fee
-waiver as outlined 
-[here](https://www.isical.ac.in/~admission/Documents/IsiAdmission2024/BSDS-Spot-admission-payment-2024.pdf).
+waiver as per [this policy](documents/bsds-fee-waiver-20241007.pdf).
 
 1. Qualifying students must download and fill up [this form](documents/bsds-fee-waiver-form.pdf).
 
@@ -16,14 +15,14 @@ waiver as outlined
 
     * District Magistrate/ Additional District Magistrate/ Collector/
       Deputy Commissioner/ Additional Deputy Commissioner/ 1st Class
-      Stipendary Magistrate/ Sub-Divisional Magistrate/ Taluka
+      Stipendiary Magistrate/ Sub-Divisional Magistrate/ Taluka
       Magistrate/ Executive Magistrate/ Extra Assistant Commissioner
 
     * Chief Presidency Magistrate/ Additional Chief Presidency Magistrate/ Presidency Magistrate
 
     * Revenue Officer not below the rank of Tehsildar, and
 
-    * Sub-divisional Officer or the area where the student and/ or his family normally resides.
+    * Sub-divisional Officer of the area where the student and/ or his family normally resides.
 
 3. The filled-in form and certificate must be submitted to the office
    of the Associate Dean / Centre Head for students in Bangalore and
