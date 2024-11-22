@@ -52,4 +52,9 @@ statistics and probability. Learn more about the course
 
 * Economics I
 
-## [Midterm Timetable](documents/midterm.pdf)
+## Examination timetables
+
+* [Mid-semester Examination](documents/2024-25-semester-I/midsem-exam.pdf)
+
+* [End-semester Examination](documents/2024-25-semester-I/endsem-exam.pdf)
+
