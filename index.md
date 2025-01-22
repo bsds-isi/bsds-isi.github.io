@@ -21,7 +21,23 @@ statistics and probability. Learn more about the course
 
 * * *
 
-# 2024 - Semester I
+# 2024-25 - Semester II
+
+## Calendar
+
+* Classes: _27 January – 9 May, 2025_
+* Mid-semester Examination: __17 March – 21 March, 2025__
+* Study leave: _13 May – 16 May, 2025_
+* End-Semester Examination: __19 May – 28 May, 2025__
+* Backpaper Examination: _16 June – 20 June, 2025_
+
+* Holidays: January 26, February 26, March 14, March 31, April 10, April 15, April 18, May 12, June 7.
+ 
+* * *
+
+
+
+# 2024-25 - Semester I
 
 ## Calendar
 
