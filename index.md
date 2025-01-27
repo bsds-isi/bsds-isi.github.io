@@ -32,6 +32,8 @@ statistics and probability. Learn more about the course
 * Backpaper Examination: _16 June – 20 June, 2025_
 
 * Holidays: January 26, February 26, March 14, March 31, April 10, April 15, April 18, May 12, June 7.
+
+* [Timetable](documents/timetable-sem2.pdf)   
  
 * * *
 
