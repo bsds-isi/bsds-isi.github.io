@@ -34,7 +34,24 @@ statistics and probability. Learn more about the course
 * Holidays: January 26, February 26, March 14, March 31, April 10, April 15, April 18, May 12, June 7.
 
 * [Timetable](documents/timetable-sem2.pdf)   
- 
+
+## Courses
+
+* Mathematics II
+
+* Statistics II
+
+* Optimization and Numerical Methods
+
+* [Data Analysis with R and Python](https://deepayan.github.io/BSDS/2025-01-DARP/)
+
+* Physics
+
+* Biology II
+
+* Economics II
+
+
 * * *
 
 
