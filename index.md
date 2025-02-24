@@ -39,9 +39,9 @@ statistics and probability. Learn more about the course
 
 * Mathematics II
 
-* Statistics II
+* [Statistics II](https://sites.google.com/view/mmukhopadhyay/home/teaching/statistics-ii-introduction-to-inference)
 
-* Optimization and Numerical Methods
+* [Optimization and Numerical Methods](https://classroom.google.com/c/NzM2ODEzODk2OTUx)
 
 * [Data Analysis with R and Python](https://deepayan.github.io/BSDS/2025-01-DARP/)
 
