@@ -50,7 +50,10 @@ statistics and probability. Learn more about the course
 * Biology II
 
 * Economics II
+  
+## Examination timetables
 
+* [Mid-semester Examination](documents/2024-25-semester-II/midsem-exam.pdf)
 
 * * *
 
