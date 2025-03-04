@@ -53,7 +53,7 @@ statistics and probability. Learn more about the course
   
 ## Examination timetables
 
-* [Mid-semester Examination](documents/2024-25-semester-II/midsem-exam.pdf)
+* [Mid-semester Examination](documents/Sem2_midterm.pdf)
 
 * * *
 
