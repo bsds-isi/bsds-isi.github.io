@@ -11,11 +11,11 @@ machine learning, computational statistics and data analytics. The
 focus will be on applications of statistics in industry and different
 branches of sciences, with a solid knowledge and understanding of
 statistics and probability. Learn more about the course
-[here](https://www.isical.ac.in/~deanweb/bsds.html).
+[here](https://www2.isical.ac.in/~deanweb/bsds.html).
 
-* [Course structure and syllabus](https://www.isical.ac.in/~deanweb/BSDS-Syllabus-Year-2024.pdf)
+* [Course structure and syllabus](https://www2.isical.ac.in/~deanweb/BSDS-Syllabus-Year-2024.pdf)
 
-* [Pass-fail rules](https://www.isical.ac.in/sites/default/files/pdf/BSDS-Pass-Fail-policy.pdf)
+* [Pass-fail rules](https://www2.isical.ac.in/sites/default/files/pdf/BSDS-Pass-Fail-policy.pdf)
 
 * [Tuition Fee Waiver](fee-waiver.html)
 
