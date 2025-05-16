@@ -55,6 +55,8 @@ statistics and probability. Learn more about the course
 
 * [Mid-semester Examination](documents/Sem2_midterm.pdf)
 
+* [End-semester Examination](documents/Final_schedule.pdf)
+
 * * *
 
 
