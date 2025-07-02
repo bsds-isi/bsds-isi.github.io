@@ -13,7 +13,8 @@ branches of sciences, with a solid knowledge and understanding of
 statistics and probability. Learn more about the course
 [here](https://www2.isical.ac.in/~deanweb/bsds.html).
 
-* [Course structure and syllabus](https://www2.isical.ac.in/~deanweb/BSDS-Syllabus-Year-2024.pdf)
+* [Course structure and syllabus](https://www2.isical.ac.in/~deanweb/BSDS-Curriculum-2025.pdf)
+  <!-- https://www2.isical.ac.in/~deanweb/BSDS-Syllabus-Year-2024.pdf -->
 
 * [Pass-fail rules](https://www2.isical.ac.in/sites/default/files/pdf/BSDS-Pass-Fail-policy.pdf)
 
