@@ -21,7 +21,13 @@ statistics and probability. Learn more about the course
 * [Tuition Fee Waiver](fee-waiver.html)
 
 * * *
+# 2025-26 - Semester I
 
+## Calendar
+
+* [First Year Timetable](documents/timetable-sem1-year1.pdf)   
+
+***
 # 2024-25 - Semester II
 
 ## Calendar
