@@ -49,7 +49,7 @@ layout: default
 
 	* Probability II
 
-	* Statistics III: Multivariate Data and Regression
+	* [Statistics III: Multivariate Data and Regression]{Syllabus_Stat3.pdf}
 
 	* Data Structures and Algortithms
 
