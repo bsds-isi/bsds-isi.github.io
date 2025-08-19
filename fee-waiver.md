@@ -28,8 +28,8 @@ waiver as per [this policy](documents/bsds-fee-waiver-20241007.pdf).
    of the Associate Dean / Centre Head for students in Bangalore and
    Delhi Centres, and the Dean of Studies for students in Kolkata.
 
-4. The deadline for submission is 18th October, 2024 for Semester I of
-   Academic session 2024-25. In subsequent years (i.e., at the end of
+4. The deadline for submission is 4th September, 2025 for Semester I of
+   Academic session 2025-26. In subsequent years (i.e., at the end of
    each Academic year), students must apply again with the necessary
    documents to avail any tuition fee waiver.
 
