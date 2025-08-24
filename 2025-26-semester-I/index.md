@@ -49,7 +49,7 @@ layout: default
 
 	* Probability II
 
-	* [Statistics III: Multivariate Data and Regression](Syllabus_Stat3.pdf)
+	* [Statistics III: Multivariate Data and Regression](https://www.isibang.ac.in/~rsen/StatIII.html)
 
 	* Data Structures and Algortithms
 
