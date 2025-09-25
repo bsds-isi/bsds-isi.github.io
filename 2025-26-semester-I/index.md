@@ -37,6 +37,8 @@ layout: default
 	* Biology I
 
 	* Economics I
+   
+* [Midterm Schedule](midterm-year-I.pdf)
 
 
 ## Year II
@@ -54,4 +56,6 @@ layout: default
 	* Data Structures and Algortithms
 
 	* Statistical Inference
+
+* [Midterm Schedule](midterm-year-II.pdf)
 
