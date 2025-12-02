@@ -39,6 +39,8 @@ layout: default
 	* Economics I
    
 * [Midterm Schedule](midterm-year-I.pdf)
+  
+* [Final Schedule](Final-Year-1.pdf)
 
 
 ## Year II
@@ -58,4 +60,6 @@ layout: default
 	* Statistical Inference
 
 * [Midterm Schedule](midterm-year-II.pdf)
+
+* [Final Schedule](Final-Year-2.pdf)
 
