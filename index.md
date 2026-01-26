@@ -28,6 +28,8 @@ statistics and probability. Learn more about the course
 
 * [Semester I](2025-26-semester-I/)
 
+* [Semester II](2025-26-semester-II/)
+
 * * *
 
 # Academic Year 2024-25
