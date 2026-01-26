@@ -4,7 +4,7 @@ language: en
 layout: default
 ---
 
-# 2024-25 - Semester I
+# 2025-26 - Semester I
 
 ## Calendar
 
