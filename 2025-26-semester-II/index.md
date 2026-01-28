@@ -50,7 +50,7 @@ layout: default
 
 * Courses
 
-	* Advanced Statistical Methods I
+	* [Advanced Statistical Methods I](https://www.isibang.ac.in/~rsen/ASM1.html)
 
 	* Linear Statistical Models
 
