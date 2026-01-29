@@ -25,7 +25,7 @@ layout: default
 
 * Courses
 
-	* Statistics II: Introduction in Inference
+	* [Statistics II: Introduction in Inference](https://sites.google.com/view/mmukhopadhyay/home/teaching/statistics-ii-introduction-to-inference/2026)
 
 	* Mathematics II
 
