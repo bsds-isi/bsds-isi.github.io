@@ -14,8 +14,7 @@ layout: default
 * End-Semester Examination: __18 May – 29 May, 2026__
 * Backpaper Examination: _17 June – 24 June, 2026_
 
-* Holidays: March 3, March 19, March 21, March 31, April 4, May 1, May
-  27, June 26
+* Holidays: March 4, March 19, March 21, March 31, April 3, May 1, May 27, June 26
 
 * Next semester begins on 20 July 2026 (Year II and Year III)
 
