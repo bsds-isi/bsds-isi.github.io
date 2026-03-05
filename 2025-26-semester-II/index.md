@@ -38,7 +38,7 @@ layout: default
    
 	* Physics (elective)
 
-<!-- * [Midterm Schedule](midterm-year-I.pdf) -->
+    * [Midterm Schedule](midterm-year1.pdf) 
   
 <!-- * [Final Schedule](Final-Year-1.pdf) -->
 
@@ -59,7 +59,7 @@ layout: default
 
 	* Database Management Systems
 
-<!-- * [Midterm Schedule](midterm-year-II.pdf) -->
+    * [Midterm Schedule](midterm-year2.pdf)
 
 <!-- * [Final Schedule](Final-Year-2.pdf) -->
 
