@@ -40,7 +40,7 @@ layout: default
 
     * [Midterm Schedule](midterm-year1.pdf) 
   
-<!-- * [Final Schedule](Final-Year-1.pdf) -->
+    * [Final Schedule](final-year1.pdf) 
 
 
 ## Year II
@@ -60,6 +60,8 @@ layout: default
 	* Database Management Systems
 
     * [Midterm Schedule](midterm-year2.pdf)
+
+    * [Final Schedule](final-year2.pdf)  
 
 <!-- * [Final Schedule](Final-Year-2.pdf) -->
 
