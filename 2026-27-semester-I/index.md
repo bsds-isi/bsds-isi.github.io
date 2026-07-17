@@ -53,8 +53,8 @@ layout: default
 
 * Classes: _20 July – 13 November, 2026_
 * Mid-semester Examination: __7 September – 11 September, 2026__
-* Study leave: _14 October – 17 October, 2026_
-* End-Semester Examination: __18 Ocober – 27 October, 2026__
+* Study leave: _14 November – 17 November, 2026_
+* End-Semester Examination: __18 November – 27 November, 2026__
 * Backpaper Examination: _17 December – 24 December, 2026_
 
 * Holidays: August 15, August 26, September 4, September 14, October 2, October 19 -- October 23, November 8, November 24, December 25
