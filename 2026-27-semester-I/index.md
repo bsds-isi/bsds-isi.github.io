@@ -8,8 +8,6 @@ layout: default
 
 ## Calendar for Year I
 
-* Classes begin: _10 August, 2026_
-
 * Classes: _10 August – 4 December, 2026_
 * Mid-semester Examination: __28 September – 5 October, 2026__
 * Study leave: _5 December – 8 December, 2026_
