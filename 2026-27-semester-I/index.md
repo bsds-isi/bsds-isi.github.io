@@ -97,7 +97,7 @@ layout: default
 
 <!-- * [Midterm Schedule](midterm-year-II.pdf) -->
 
-<!-- * [Final Schedule](Final-Year-2.pdf) -->
+* [Final Schedule](IIIFinal.pdf)
 
 
 
