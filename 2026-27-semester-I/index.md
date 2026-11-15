@@ -76,7 +76,7 @@ layout: default
 
 <!-- * [Midterm Schedule](midterm-year-II.pdf) -->
 
-    * [Final Schedule](IIFinal.pdf) -->
+* [Final Schedule](IIFinal.pdf)
 
 
 ## Year III
